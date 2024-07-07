@@ -50,5 +50,5 @@ Este proyecto se distribuye bajo la licencia MIT. Usted es libre de utilizar, mo
 
 ## Fecha de creación
 
-19 - 10 2023
+19 - 10 - 2023
 
